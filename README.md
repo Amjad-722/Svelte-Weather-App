@@ -13,11 +13,7 @@ The application connects to the OpenWeather API and fetches weather data on the 
 - **Svelte 5**: The latest version of Svelte, featuring updates to reactivity and event handling.
 - **Vitest**: A fast, Vite-powered testing framework designed for modern frontend projects.
 
-## Screenshots and Demo
 
-![Video](./static/readme_images/demo.gif)
 
-<img src="./static/readme_images/dark_mode.png" alt="Dark mode" style="max-width: 1300px;"/>
-<img src="./static/readme_images/light_mode.png" alt="Light mode" style="max-width: 1300px;"/>
-<img src="./static/readme_images/mobile_dark.png" alt="Mobile Dark Mode" style="max-width: 500px;"/>
-<img src="./static/readme_images/mobile_light.png" alt="Mobile Light Mode" style="max-width: 500px;"/>
+
+
